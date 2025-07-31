@@ -1,9 +1,9 @@
 import { SafeAreaView, Text } from "react-native";
 
-export default function() {
+export default function(){
     return(
         <SafeAreaView>
-            <Text>Explore page</Text>
+            <Text>Welcome to account info page</Text>
         </SafeAreaView>
     )
 }
